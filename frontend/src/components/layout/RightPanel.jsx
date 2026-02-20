@@ -1,5 +1,5 @@
 import { ArrowRight, Trophy, Ghost } from "lucide-react";
-import { TOPICS } from "../../data/mockData";
+import { TOPICS } from "../../data/mockdata";
 import { cn } from "../../lib/utils";
 
 export function RightPanel() {
