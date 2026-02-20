@@ -10,7 +10,7 @@ import {
   X,
 } from "lucide-react";
 import { useState } from "react";
-import { NOTIFICATIONS } from "../data/temp";
+import { NOTIFICATIONS } from "../data/mockdata";
 import { cn } from "../lib/utils";
 import { NotificationSettingsModal } from "../components/modals/NotificationSettingsModal";
 import { TriangleAlertIcon } from "../components/ui/triangle-alert-icon";
